@@ -1,0 +1,36 @@
+:root {
+    --mainText: black;
+
+    --secondaryText: #4b5156;
+
+    --borderColor: #c1c1c1;
+
+    --mainColor: #eaeaea;
+
+    --secondaryColor: #fff;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, strong {
+    color: var(--mainText);
+}
+
+p, li, span, input, label, textarea {
+    color: var(----secondaryText);
+}
+
+.s1 {
+    background-color: var(--mainColor);
+    border-bottom: 1px solid var(--borderColor);
+    overflow: auto;
+}
+
+.s2 {
+    background-color: var(----secondaryText);
+    border-bottom: 1px solid var(--borderColor);
+    overflow: auto;
+}
