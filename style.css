@@ -18,11 +18,12 @@ html, body {
 h1, h2, h3, h4, h5, h6, strong {
     color: var(--mainText);
     font-family: "Russo", sans-serif;
+    font-weight: 500;
 }
 
 p, li, span, input, label, textarea {
     color: var(----secondaryText);
-    font-family: "Poppins", sans-serif;
+    font-family: "Roboto Mono", sans-serif;
 }
 
 .s1 {
