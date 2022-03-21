@@ -39,23 +39,23 @@ p, li, span, input, label, textarea {
 }
 
 .main-container {
-   width: 1280px;
-   margin: 0 auto;
+    width: 1280px;
+    margin: 0 auto;
  }
 
 @media screen and (max-width: 1200px) {
-.main-container {
-  width: 95%;
+ .main-container {
+    width: 95%;
 }
 }
 
 a  {
-  text-decoration: none; 
-  color: #17a2b8;
+    text-decoration: none; 
+    color: #17a2b8;
 }
 
 ul {
-  list-style: none;
+    list-style: none;
 }
 
 h1 { font-size:56px;}
